@@ -1,0 +1,16 @@
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\bin\Release\Status_Bar.dll
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\bin\Release\Status_Bar.pdb
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Release\Status_Bar.csproj.GenerateResource.cache
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Release\Status_Bar.csproj.CoreCompileInputs.cache
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Release\Status_Bar.dll
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Release\Status_Bar.pdb
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Release\Status_Bar_Namespace.Status_Bar.resources
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Release\Status_Bar.csprojAssemblyReference.cache
+C:\Users\Faizan\Cloud\OneDrive\Projects\.Net\WinForms\POS-Project\Libraries\Status_Bar.dll
+C:\Users\Faizan\Cloud\OneDrive\Projects\.Net\WinForms\POS-Project\Libraries\Status_Bar.pdb
+C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar.csprojAssemblyReference.cache
+C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar_Namespace.Status_Bar.resources
+C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar.csproj.GenerateResource.cache
+C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar.csproj.CoreCompileInputs.cache
+C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar.dll
+C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar.pdb

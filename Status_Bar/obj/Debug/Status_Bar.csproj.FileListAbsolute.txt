@@ -1,0 +1,8 @@
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\bin\Debug\Status_Bar.dll
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\bin\Debug\Status_Bar.pdb
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Debug\Status_Bar.csprojAssemblyReference.cache
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Debug\Status_Bar.Status_Bar.resources
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Debug\Status_Bar.csproj.GenerateResource.cache
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Debug\Status_Bar.csproj.CoreCompileInputs.cache
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Debug\Status_Bar.dll
+E:\Local\Visual Studio\Projects\Status_Bar\Status_Bar\obj\Debug\Status_Bar.pdb
