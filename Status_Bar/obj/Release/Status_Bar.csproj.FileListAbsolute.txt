@@ -14,3 +14,11 @@ C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinFo
 C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar.csproj.CoreCompileInputs.cache
 C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar.dll
 C:\Users\Faizan\Cloud\OneDrive - Higher Education Commission\Projects\.Net\WinForms\User Controls\Status_Bar\Status_Bar\obj\Release\Status_Bar.pdb
+C:\Users\Faizan\Cloud\Mega\Projects\Dot-Net\UserControls\Sources\Status_Bar\Status_Bar\obj\Release\Status_Bar.csproj.AssemblyReference.cache
+C:\Users\Faizan\Cloud\Mega\Projects\Dot-Net\UserControls\Sources\Status_Bar\Status_Bar\obj\Release\Status_Bar_Namespace.Status_Bar.resources
+C:\Users\Faizan\Cloud\Mega\Projects\Dot-Net\UserControls\Sources\Status_Bar\Status_Bar\obj\Release\Status_Bar.csproj.GenerateResource.cache
+C:\Users\Faizan\Cloud\Mega\Projects\Dot-Net\UserControls\Sources\Status_Bar\Status_Bar\obj\Release\Status_Bar.csproj.CoreCompileInputs.cache
+C:\Users\Faizan\Cloud\Mega\Projects\Dot-Net\UserControls\Sources\Status_Bar\Status_Bar\obj\Release\Status_Bar.dll
+C:\Users\Faizan\Cloud\Mega\Projects\Dot-Net\UserControls\Sources\Status_Bar\Status_Bar\obj\Release\Status_Bar.pdb
+C:\Users\Faizan\Cloud\Mega\Projects\Dot-Net\UserControls\Rleases\Status_Bar.dll
+C:\Users\Faizan\Cloud\Mega\Projects\Dot-Net\UserControls\Rleases\Status_Bar.pdb

@@ -13,6 +13,7 @@ namespace Status_Bar_Namespace
 {
     public partial class Status_Bar : UserControl
     {
+        int CharacterWidth = 1;
         public enum NotificationType
         {
             Success,
@@ -29,6 +30,32 @@ namespace Status_Bar_Namespace
             set
             {
                 LCopyRightText.Text = value;
+            }
+        }
+        private bool AnimationEnabledVar;
+        public bool AnimationEnabled
+        {
+            get
+            {
+                
+                return AnimationEnabledVar;
+            }
+            set
+            {
+                PanelPromotion.Visible = value;
+                AnimationTimer.Enabled = value;
+                AnimationEnabledVar = value;
+            }
+        }
+        public string PromotionText
+        {
+            get
+            {
+                return LPromotionText.Text;
+            }
+            set
+            {
+                LPromotionText.Text = value;
             }
         }
         public Status_Bar()
@@ -160,6 +187,25 @@ namespace Status_Bar_Namespace
         {
             TLP_Status_Bar.RowStyles[0].Height = 30;
             TLP_Status_Bar.RowStyles[1].Height = 0;
+        }
+
+        private void AnimationTimer_Tick(object sender, EventArgs e)
+        {
+
+            if((LPromotionText.Left+LPromotionText.Width)/CharacterWidth>0)
+            {
+                LPromotionText.Left -= CharacterWidth;
+            }
+            else
+            {
+                LPromotionText.Left = PanelPromotion.Width;
+            }
+            
+        }
+
+        private void Status_Bar_Load_1(object sender, EventArgs e)
+        {
+            AnimationTimer.Enabled = true;
         }
     }
 }
